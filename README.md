@@ -24,7 +24,7 @@ tu_app/
 
 Sigue estos pasos para poner en marcha el proyecto en tu entorno local.
 
-1.  **Clona el repositorio** (o crea los archivos como se describió).
+1.  **Clona el repositorio**.
 
 2.  **Navega a la carpeta del proyecto**:
 
